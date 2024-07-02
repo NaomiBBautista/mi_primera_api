@@ -4,9 +4,9 @@ Implementación de un sistema CRUD sobre Movies y Computadoras, puedes verlo dan
 
 ### CRUD Movies:
 
-![Crud Movies](crud_movies.png).
+![Crud Movies](crud_movies.png)
 
 ### CRUD Computadoras:
 
-![Crud Computadoras](crud_computadoras.png).
+![Crud Computadoras](crud_computadoras.png)
 
